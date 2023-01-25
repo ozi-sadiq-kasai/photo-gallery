@@ -1,0 +1,20 @@
+.jumbotron{
+  background: rgba(225, 215, 215, 0.183);
+  /* padding: 5%; */
+  text-align: center;
+  /* border: 10px solid red; */
+}
+
+body{
+background:rgba(103, 92, 92, 0.1);
+}
+.col-sm-2{
+  background: yellowgreen;
+}
+
+.col-sm-10{
+  background: white;
+}
+img{
+  width:300px;
+}
